@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Pharmacy-Sales-Dashboard is a comprehensive Power BI dashboard designed for analyzing pharmacy sales data. The project includes integration with a MySQL database, allowing for real-time data analysis and visualization. This dashboard provides valuable insights into sales trends, product performance, and customer behaviors within pharmacy operations.
+Pharmacy-Sales-Dashboard is a comprehensive Power BI dashboard designed for analyzing pharmacy sales data, integrated with a MySQL database for real-time analysis and visualization, offering insights into sales trends, product performance, and customer behaviors, and is further optimized by selectively fetching only essential data using well-designed, parameterized queries for enhanced performance and efficiency.
 
 ## Features
 
