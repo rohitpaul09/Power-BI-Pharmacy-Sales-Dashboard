@@ -39,3 +39,7 @@ Pharmacy-Sales-Dashboard is a comprehensive Power BI dashboard designed for anal
 ## Contact
 
 For any queries, suggestions, or contributions, please email [rohitpaul09@gmail.com](mailto:rohitpaul09@gmail.com).
+
+<a href="https://youtu.be/JZZWeP2n3LY?si=CMJbXJn15Cuf4afr" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
